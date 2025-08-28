@@ -26,10 +26,16 @@ This application allows users to convert between **Length, Weight, and Temperatu
 
 ---
 
-## 📦 Installation
+## ⚙️ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KalkiKS/Core-Converter.git
+   cd Core-Converter
 
-### 1. Clone the Repository
-```bash
-  git clone https://github.com/your-username/unit-converter.git
-  cd unit-converter
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
+4. Run the app
+   ```bash
+   python main.py
