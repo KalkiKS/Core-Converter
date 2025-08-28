@@ -33,10 +33,3 @@ This application allows users to convert between **Length, Weight, and Temperatu
   git clone https://github.com/your-username/unit-converter.git
   cd unit-converter
 
-### 2. Intall dependecies
-```bash
-  pip install -r requirements.txt
-
-### 3. Run main app
-```bash
-  python main.py
